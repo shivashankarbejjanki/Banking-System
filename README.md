@@ -35,4 +35,4 @@ Implement Graphical User Interface (GUI) using JavaFX or Swing
 Add transaction history for each account
 Add user authentication (login system)
 
-⚡This project is for learning purposes and demonstrates basic Java OOP concepts in a real-world scenario.
+>>>This project is for learning purposes and demonstrates basic Java OOP concepts in a real-world scenario.
